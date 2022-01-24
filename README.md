@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.developer-corner.xyz/"><img src="https://raw.githubusercontent.com/DevCorner-Github/DevCorner-Website/main/docs/assets/Logo-Word.png"></img></a>
+  <a href="https://www.developer-corner.xyz/"><img src="https://raw.githubusercontent.com/DevCorner-Github/DevCorner-Website/main/docs/assets/Logo-Word.png" widht=100%></img></a>
   Windows Deskthemepacks
   <br />
   Supports Windows 8, 8.1, 8.1.1, 10, and 11
