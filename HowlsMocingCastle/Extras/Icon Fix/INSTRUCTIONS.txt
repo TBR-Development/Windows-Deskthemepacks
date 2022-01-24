@@ -1,0 +1,2 @@
+1. Copy and Paste the `Icons` folder into `C:\`.
+2. Run the `IconFix.reg` file
