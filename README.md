@@ -13,33 +13,39 @@ A collection of themes made by NimbiDev
 ### Deskthemepacks
 
 **Architecture**<br />
-![Architecture](./Architecture/Architecture.deskthemepack)
+![Architecture](./Architecture/Extras/Screenshot.png)
 
 **Characters**<br />
-![Characters](./Characters/Characters.deskthemepack)
+![Characters](./Characters/Extras/Screenshot.png)
 
 **Cityscapes**<br />
-![Cityscapes](./Cityscapes/Cityscapes.deskthemepack)
+![Cityscapes](./Cityscapes/Extras/Screenshot.png)
 
 **Courage TCD**<br />
-![Courage TCD](./Courage%20TCD/Courage%20TCD.deskthemepack)
+![Courage TCD](./Courage%20TCD/Extras/Screenshot.png)
 
 **Howl's Moving Castle**<br />
-![Howl's Moving Castle](./HowlsMovingCastle/HMC.deskthemepack)
+![Howl's Moving Castle](./HowlsMovingCastle/Extras/Screenshot.png)
 
 **Landscapes**<br />
-![Landscapes](./Landscapes/Landscapes.deskthemepack)
+![Landscapes](./Landscapes/Extras/Screenshot.png)
 
 **Nature**<br />
-![Nature](./Nature/Nature.deskthemepack)
+![Nature](./Nature/Extras/Screenshot.png)
 
 **Scenes**<br />
-![Scenes](./Scenes/Scenes.deskthemepack)
+![Scenes](./Scenes/Extras/Screenshot.png)
 
 **Studio Ghibli**<br />
-![Studio Ghibli](./StudioGhibli/Ghibli.deskthemepack)
+![Studio Ghibli](./StudioGhibli/Extras/Screenshot.png)
 
 **United States**<br />
-![United States](./United%20States/United%20States.deskthemepack)
+![United States](./United%20States/Extras/Screenshot.png)
 
 ---
+
+
+### Instructions
+
+ - To download these deskthemepacks simply click [here](https://github.com/NimbiDev/Deskthemepacks/archive/refs/heads/main.zip).
+ - Note: Some of these deskthemepacks include custom dll files for the icons, as such you will need to follow the instructions provided in the theme's 'Extras' folder to ensure the icons display correctly.
