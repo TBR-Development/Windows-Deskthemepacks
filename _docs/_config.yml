@@ -1,6 +1,6 @@
 title                           : Windows Deskthemepacks
-  description                   : > 
-    A collection of themes for Windows 8, 8.1, 10, and 11
+description                     : > 
+  A collection of themes for Windows 8, 8.1, 10, and 11
 repository                      : tbr-development/Windows-Deskthemepacks
 baseUrl                         : "/Windows-Deskthemepacks"
 url                             : "//tbr-development.github.io"
