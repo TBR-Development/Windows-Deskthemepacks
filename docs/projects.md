@@ -24,16 +24,16 @@ Projects
 Previews
 ---
 <p align="center">
-<img src="images/Architecture.png" width="350" title="Architecture"> 
-<img src="images/Characters.png" width="350" title="Characters"> 
-<img src="images/Cityscapes.png" width="350" title="Cityscapes"> 
-<img src="images/Landscapes.png" width="350" title="Landscapes"> 
-<img src="images/Nature.png" width="350" title="Nature"> 
-<img src="images/Scenes.png" width="350" title="Scenes"> 
-<img src="images/United%20States.png" width="350" title="United States"> 
-<img src="images/Studio%20Ghibli.png" width="350" title="Studio Ghibli"> 
-<img src="images/Howls%20Moving%20Castle.png" width="350" title="Howl's Moving Castle"> 
-<img src="images/Courage%20TCD.png" width="350" title="Courage TCD">
+<img src="assets/images/Architecture.png" width="350" title="Architecture"> 
+<img src="assets/images/Characters.png" width="350" title="Characters"> 
+<img src="assets/images/Cityscapes.png" width="350" title="Cityscapes"> 
+<img src="assets/images/Landscapes.png" width="350" title="Landscapes"> 
+<img src="assets/images/Nature.png" width="350" title="Nature"> 
+<img src="assets/images/Scenes.png" width="350" title="Scenes"> 
+<img src="assets/images/United%20States.png" width="350" title="United States"> 
+<img src="assets/images/Studio%20Ghibli.png" width="350" title="Studio Ghibli"> 
+<img src="assets/images/Howls%20Moving%20Castle.png" width="350" title="Howl's Moving Castle"> 
+<img src="assets/images/Courage%20TCD.png" width="350" title="Courage TCD">
 </p>
 
 [PhantomNimbi]: https://github.com/PhantomNimbi
