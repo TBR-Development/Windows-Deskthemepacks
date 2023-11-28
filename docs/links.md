@@ -10,4 +10,4 @@ nav_order: 3
 
 
 [URL_1]: https://github.com/TBR-Development
-[URL_2]: https://dsc.gg/tbr-development
+[URL_2]: https://dsc.gg/the-back-room
